@@ -1,0 +1,646 @@
+{
+ "sessions": [
+  {
+   "id": "xl-1A",
+   "week": 1,
+   "day": "A",
+   "date": null,
+   "done": true,
+   "entries": {
+    "Chest Press (decline if possible)": {
+     "kg": "45/45/45",
+     "reps": "11/11/12",
+     "note": ""
+    },
+    "Chest-Supported Machine Row": {
+     "kg": "55/55/55",
+     "reps": "12/12/12",
+     "note": ""
+    },
+    "Leg Press": {
+     "kg": "101/117/125",
+     "reps": "12/8/8",
+     "note": "leg press maschine"
+    },
+    "Calves": {
+     "kg": "125/125/125",
+     "reps": "13/13/13",
+     "note": ""
+    },
+    "Seated Leg Curl": {
+     "kg": "45/50/50",
+     "reps": "12/10/10",
+     "note": ""
+    },
+    "Cable Lateral Raise": {
+     "kg": "30/30/30",
+     "reps": "12/10/10",
+     "note": ""
+    },
+    "Cable Biceps Curl": {
+     "kg": "35/35/35",
+     "reps": "8/8/6",
+     "note": ""
+    },
+    "Triceps Pushdown": {
+     "kg": "50/50/50",
+     "reps": "10/10/8",
+     "note": ""
+    },
+    "Abs Crunch Machine": {
+     "kg": "70/70/70",
+     "reps": "12/12/12",
+     "note": ""
+    }
+   }
+  },
+  {
+   "id": "xl-2A",
+   "week": 2,
+   "day": "A",
+   "date": null,
+   "done": true,
+   "entries": {
+    "Chest Press (decline if possible)": {
+     "kg": "45",
+     "reps": "10",
+     "note": ""
+    },
+    "Chest-Supported Machine Row": {
+     "kg": "55",
+     "reps": "12",
+     "note": ""
+    },
+    "Leg Press": {
+     "kg": "125",
+     "reps": "10",
+     "note": ""
+    },
+    "Calves": {
+     "kg": "125",
+     "reps": "13",
+     "note": ""
+    },
+    "Seated Leg Curl": {
+     "kg": "",
+     "reps": "",
+     "note": "skipped"
+    },
+    "Cable Lateral Raise": {
+     "kg": "30",
+     "reps": "11",
+     "note": ""
+    },
+    "Cable Biceps Curl": {
+     "kg": "35",
+     "reps": "8",
+     "note": ""
+    },
+    "Triceps Pushdown": {
+     "kg": "45",
+     "reps": "12",
+     "note": ""
+    }
+   }
+  },
+  {
+   "id": "xl-3A",
+   "week": 3,
+   "day": "A",
+   "date": null,
+   "done": true,
+   "entries": {
+    "Chest Press (decline if possible)": {
+     "kg": "45",
+     "reps": "12",
+     "note": ""
+    },
+    "Chest-Supported Machine Row": {
+     "kg": "60",
+     "reps": "12",
+     "note": ""
+    },
+    "Leg Press": {
+     "kg": "125",
+     "reps": "12",
+     "note": ""
+    },
+    "Calves": {
+     "kg": "125",
+     "reps": "15",
+     "note": ""
+    },
+    "Seated Leg Curl": {
+     "kg": "50",
+     "reps": "12",
+     "note": ""
+    },
+    "Cable Lateral Raise": {
+     "kg": "35",
+     "reps": "10",
+     "note": ""
+    },
+    "Cable Biceps Curl": {
+     "kg": "35",
+     "reps": "",
+     "note": "1 Satz"
+    },
+    "Triceps Pushdown": {
+     "kg": "45",
+     "reps": "",
+     "note": "1 satz"
+    }
+   }
+  },
+  {
+   "id": "xl-4A",
+   "week": 4,
+   "day": "A",
+   "date": null,
+   "done": true,
+   "entries": {
+    "Chest Press (decline if possible)": {
+     "kg": "50",
+     "reps": "8",
+     "note": ""
+    },
+    "Chest-Supported Machine Row": {
+     "kg": "65",
+     "reps": "8",
+     "note": ""
+    },
+    "Leg Press": {
+     "kg": "125",
+     "reps": "12",
+     "note": ""
+    },
+    "Calves": {
+     "kg": "133",
+     "reps": "15",
+     "note": ""
+    },
+    "Seated Leg Curl": {
+     "kg": "50",
+     "reps": "12",
+     "note": ""
+    },
+    "Cable Lateral Raise": {
+     "kg": "35",
+     "reps": "11",
+     "note": ""
+    },
+    "Cable Biceps Curl": {
+     "kg": "35",
+     "reps": "12",
+     "note": ""
+    },
+    "Triceps Pushdown": {
+     "kg": "45",
+     "reps": "12",
+     "note": ""
+    },
+    "Abs Crunch Machine": {
+     "kg": "75",
+     "reps": "12",
+     "note": ""
+    }
+   }
+  },
+  {
+   "id": "xl-5A",
+   "week": 5,
+   "day": "A",
+   "date": null,
+   "done": true,
+   "entries": {
+    "Chest Press (decline if possible)": {
+     "kg": "50",
+     "reps": "8",
+     "note": ""
+    },
+    "Chest-Supported Machine Row": {
+     "kg": "65",
+     "reps": "10",
+     "note": ""
+    },
+    "Leg Press": {
+     "kg": "125",
+     "reps": "12",
+     "note": ""
+    },
+    "Calves": {
+     "kg": "133",
+     "reps": "14",
+     "note": ""
+    },
+    "Seated Leg Curl": {
+     "kg": "55",
+     "reps": "10",
+     "note": ""
+    },
+    "Cable Lateral Raise": {
+     "kg": "6",
+     "reps": "12",
+     "note": "dumbbell"
+    },
+    "Cable Biceps Curl": {
+     "kg": "35",
+     "reps": "10",
+     "note": ""
+    },
+    "Triceps Pushdown": {
+     "kg": "45",
+     "reps": "12",
+     "note": ""
+    },
+    "Abs Crunch Machine": {
+     "kg": "75",
+     "reps": "12",
+     "note": ""
+    }
+   }
+  },
+  {
+   "id": "xl-1B",
+   "week": 1,
+   "day": "B",
+   "date": null,
+   "done": true,
+   "entries": {
+    "Arnold Press / Shoulder Press": {
+     "kg": "10/10",
+     "reps": "10/10",
+     "note": ""
+    },
+    "Pull-Downs": {
+     "kg": "55/60/55",
+     "reps": "12/8/10",
+     "note": ""
+    },
+    "Barbell RDL (RPE 6-7 only)": {
+     "kg": "25/25/30",
+     "reps": "6/8/8",
+     "note": ""
+    },
+    "Leg Extension": {
+     "kg": "40/45",
+     "reps": "12/12",
+     "note": ""
+    },
+    "Pec Deck / Fly": {
+     "kg": "25/25",
+     "reps": "10/10",
+     "note": "3rd set skipped"
+    },
+    "Rope Face Pull": {
+     "kg": "",
+     "reps": "",
+     "note": "skipped biceps"
+    },
+    "DB Lateral Raise": {
+     "kg": "",
+     "reps": "",
+     "note": "skipped biceps"
+    },
+    "Hammer Curls": {
+     "kg": "",
+     "reps": "",
+     "note": "skipped biceps"
+    }
+   }
+  },
+  {
+   "id": "xl-2B",
+   "week": 2,
+   "day": "B",
+   "date": null,
+   "done": true,
+   "entries": {
+    "Arnold Press / Shoulder Press": {
+     "kg": "10",
+     "reps": "12",
+     "note": ""
+    },
+    "Pull-Downs": {
+     "kg": "60",
+     "reps": "8",
+     "note": ""
+    },
+    "Barbell RDL (RPE 6-7 only)": {
+     "kg": "30",
+     "reps": "6",
+     "note": ""
+    },
+    "Leg Extension": {
+     "kg": "50",
+     "reps": "10",
+     "note": ""
+    },
+    "Pec Deck / Fly": {
+     "kg": "35",
+     "reps": "10",
+     "note": ""
+    },
+    "Rope Face Pull": {
+     "kg": "50",
+     "reps": "10",
+     "note": ""
+    },
+    "DB Lateral Raise": {
+     "kg": "6",
+     "reps": "10",
+     "note": ""
+    },
+    "Hammer Curls": {
+     "kg": "10",
+     "reps": "10",
+     "note": ""
+    }
+   }
+  },
+  {
+   "id": "xl-3B",
+   "week": 3,
+   "day": "B",
+   "date": null,
+   "done": true,
+   "entries": {
+    "Arnold Press / Shoulder Press": {
+     "kg": "12",
+     "reps": "8",
+     "note": ""
+    },
+    "Pull-Downs": {
+     "kg": "60",
+     "reps": "8",
+     "note": ""
+    },
+    "Barbell RDL (RPE 6-7 only)": {
+     "kg": "10",
+     "reps": "12",
+     "note": "Rückenstrecker"
+    },
+    "Leg Extension": {
+     "kg": "50",
+     "reps": "10",
+     "note": ""
+    },
+    "Pec Deck / Fly": {
+     "kg": "35",
+     "reps": "10",
+     "note": ""
+    },
+    "Rope Face Pull": {
+     "kg": "55",
+     "reps": "12",
+     "note": ""
+    },
+    "DB Lateral Raise": {
+     "kg": "6",
+     "reps": "10",
+     "note": ""
+    },
+    "Hammer Curls": {
+     "kg": "10",
+     "reps": "10",
+     "note": ""
+    }
+   }
+  },
+  {
+   "id": "xl-4B",
+   "week": 4,
+   "day": "B",
+   "date": null,
+   "done": true,
+   "entries": {
+    "Arnold Press / Shoulder Press": {
+     "kg": "12",
+     "reps": "10",
+     "note": ""
+    },
+    "Pull-Downs": {
+     "kg": "60",
+     "reps": "10",
+     "note": ""
+    },
+    "Barbell RDL (RPE 6-7 only)": {
+     "kg": "30",
+     "reps": "8",
+     "note": ""
+    },
+    "Leg Extension": {
+     "kg": "50",
+     "reps": "12",
+     "note": ""
+    },
+    "Pec Deck / Fly": {
+     "kg": "35",
+     "reps": "12",
+     "note": ""
+    },
+    "Rope Face Pull": {
+     "kg": "55",
+     "reps": "12",
+     "note": ""
+    }
+   }
+  },
+  {
+   "id": "xl-1C",
+   "week": 1,
+   "day": "C",
+   "date": null,
+   "done": true,
+   "entries": {
+    "Hack Squat (reverse pyramid)": {
+     "kg": "15",
+     "reps": "6",
+     "note": ""
+    },
+    "Calves sitzend": {
+     "kg": "40",
+     "reps": "10",
+     "note": ""
+    },
+    "Chest Press (incline)": {
+     "kg": "11.5",
+     "reps": "8",
+     "note": ""
+    },
+    "Seated Cable Row + Kelso Shrug": {
+     "kg": "55",
+     "reps": "12",
+     "note": ""
+    },
+    "Lying Leg Curl": {
+     "kg": "50",
+     "reps": "10",
+     "note": ""
+    },
+    "Reverse Pec Deck": {
+     "kg": "15",
+     "reps": "10",
+     "note": "cable reverse pec deck"
+    },
+    "Biceps Curls": {
+     "kg": "10",
+     "reps": "12",
+     "note": ""
+    },
+    "Overhead Cable Triceps Extension (one-arm)": {
+     "kg": "12.5",
+     "reps": "10",
+     "note": ""
+    }
+   }
+  },
+  {
+   "id": "xl-2C",
+   "week": 2,
+   "day": "C",
+   "date": null,
+   "done": true,
+   "entries": {
+    "Hack Squat (reverse pyramid)": {
+     "kg": "130",
+     "reps": "6",
+     "note": "leg press daneben"
+    },
+    "Calves sitzend": {
+     "kg": "130",
+     "reps": "15",
+     "note": "calves leg press"
+    },
+    "Chest Press (incline)": {
+     "kg": "10",
+     "reps": "10",
+     "note": "incline +"
+    },
+    "Seated Cable Row + Kelso Shrug": {
+     "kg": "60",
+     "reps": "10",
+     "note": ""
+    },
+    "Lying Leg Curl": {
+     "kg": "50",
+     "reps": "10",
+     "note": ""
+    },
+    "Reverse Pec Deck": {
+     "kg": "15",
+     "reps": "12",
+     "note": "cable"
+    },
+    "Biceps Curls": {
+     "kg": "12",
+     "reps": "8",
+     "note": ""
+    },
+    "Overhead Cable Triceps Extension (one-arm)": {
+     "kg": "12.5",
+     "reps": "10",
+     "note": ""
+    },
+    "Abs Crunch Machine": {
+     "kg": "75",
+     "reps": "12",
+     "note": ""
+    }
+   }
+  },
+  {
+   "id": "xl-3C",
+   "week": 3,
+   "day": "C",
+   "date": null,
+   "done": true,
+   "entries": {
+    "Hack Squat (reverse pyramid)": {
+     "kg": "20",
+     "reps": "8",
+     "note": ""
+    },
+    "Chest Press (incline)": {
+     "kg": "15",
+     "reps": "8",
+     "note": "incline normal"
+    },
+    "Seated Cable Row + Kelso Shrug": {
+     "kg": "60",
+     "reps": "10",
+     "note": ""
+    },
+    "Lying Leg Curl": {
+     "kg": "50",
+     "reps": "11",
+     "note": "slow reps"
+    },
+    "Reverse Pec Deck": {
+     "kg": "20",
+     "reps": "10",
+     "note": "machine"
+    },
+    "Biceps Curls": {
+     "kg": "12",
+     "reps": "8",
+     "note": ""
+    },
+    "Overhead Cable Triceps Extension (one-arm)": {
+     "kg": "15",
+     "reps": "10",
+     "note": ""
+    }
+   }
+  },
+  {
+   "id": "xl-4C",
+   "week": 4,
+   "day": "C",
+   "date": null,
+   "done": true,
+   "entries": {
+    "Hack Squat (reverse pyramid)": {
+     "kg": "20",
+     "reps": "8",
+     "note": ""
+    },
+    "Calves sitzend": {
+     "kg": "40",
+     "reps": "12",
+     "note": ""
+    },
+    "Chest Press (incline)": {
+     "kg": "15",
+     "reps": "10",
+     "note": ""
+    },
+    "Seated Cable Row + Kelso Shrug": {
+     "kg": "60",
+     "reps": "10",
+     "note": ""
+    },
+    "Lying Leg Curl": {
+     "kg": "50",
+     "reps": "10",
+     "note": ""
+    },
+    "Reverse Pec Deck": {
+     "kg": "20",
+     "reps": "10",
+     "note": ""
+    },
+    "Biceps Curls": {
+     "kg": "12",
+     "reps": "8",
+     "note": ""
+    },
+    "Overhead Cable Triceps Extension (one-arm)": {
+     "kg": "15",
+     "reps": "",
+     "note": ""
+    }
+   }
+  }
+ ]
+}
